@@ -14,7 +14,7 @@ Stay tuned for more updates as I continue to embark on this coding adventure, sh
 
 
 
-Demo: https://www.doormeals.ccbp.tech
+Demo: www.doormeals.ccbp.tech
 
 Source code: 
 
